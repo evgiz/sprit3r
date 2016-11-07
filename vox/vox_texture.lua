@@ -6,8 +6,8 @@ local function getPoints(model)
     len = len + 1
     local color = model.palette[voxel[4]]
     local x,y,z = voxel[1], voxel[2], voxel[3]
-    points[len] = { z * model.sizeX + x,
-                    y,
+    points[len] = { z * model.sizeX + x + 0.5,
+                    y + 0.5,
                     color[1], color[2], color[3], color[4]>0 and color[4] or 255} -- r,g,b,a
   end
   return points
