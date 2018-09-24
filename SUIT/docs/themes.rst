@@ -1,5 +1,0 @@
-Themeing
-========
-
-.. note::
-   Under construction.
