@@ -3,11 +3,11 @@
 Sprit3r is a small software which displays 3D models from spritesheets. Each tile in the sheet
 represents one layer of the 3D model. The layers are then stacked on top of each other to achieve the effect.
 
-![ScreenShot](http://i.imgur.com/qJN5bG2.gif)
+![ScreenShot](img/sprit3r.gif?raw=true)
 
 The model was rendered from this image:
 
-![ScreenShot](http://i.imgur.com/ms2MbQu.png)
+![ScreenShot](img/sheet.png?raw=true)
 
 
 Sprit3r is not a model editor, but the preview will refresh continuously as you edit it in another software. This makes it much easier to visualize what your art may
@@ -24,7 +24,7 @@ Note that a future update may break the code! Recommended version is LÖVE 11.1
 
 ## About
 
-Sprit3r was written in Lua using the L÷VE framework.
+Sprit3r was written in Lua using the LÔVE framework.
 
 Thanks to vrld for the cool SUIT library used in the project.
 https://github.com/vrld/SUIT
