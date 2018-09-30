@@ -17,10 +17,10 @@ The software also supports .vox files, which is a binary format exported by Magi
 
 ## How to use
 
-Sprit3r is cross platform, but requires LÖVE to run. You can download the latest version at https://love2d.org
+Sprit3r is cross platform, but requires L…VE to run. You can download the latest version at https://love2d.org
+Refer to the L…VE docs if you are unfamiliar with running L…VE projects. The simplest way is dragging the **sprit3r/src** folder onto your L…VE application.
 
-You can either clone the repo and run from source, or download the Sprit3r.love file and run it using the
-love application for your platform. Note that a future LÖVE update may break the code! Recommended version is LÖVE 0.10.2. 
+Note that a future update may break the code! Recommended version is L…VE 11.1 
 
 ## About
 
@@ -31,5 +31,5 @@ https://github.com/vrld/SUIT
 
 Thanks to kikito who wrote the parser for .vox files.
 
-My post on the LÖVE forums:
+My post on the L…VE forums:
 https://love2d.org/forums/viewtopic.php?f=5&t=83059
